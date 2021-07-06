@@ -1,0 +1,9 @@
+speech_recognition 
+pyttsx3
+#subprocess (This is inbuilt in python)
+pywhatkit
+webbrowser
+pyjokes
+datetime
+wikipedia
+#os (This is inbuilt in python)

@@ -1,0 +1,17 @@
+== Keywords/Command==
+
+.Wake word = [siri, hi siri]
+.Music = [play music]
+.Name = [what is your name]
+.Video = [play video]
+.Joke = [tell a joke, joke]
+.Youtube = [open on youtube, play on youtube, get on youtube]
+.Time = [what is the time, time, tell me the time]
+.Browse = [search, browse, search on browser]
+.Locate = [find location, location, get location]
+.Wikipedia = [wikipedia, get on wikipedia, open on wikipedia]
+.Weather = [what is the weather, get weather, weather]
+.Microsoftword = [open microsoft word, microsoft word, word]
+.Microsoftexcel = [open microsoft excel, microsoft excel, excel]
+.Opera mini = [open opera mini, search opera mini, opera mini]
+.Write note = [make a note, take note, write a note]

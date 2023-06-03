@@ -2,9 +2,9 @@ speech_recognition
 pyttsx3
 #subprocess (This is inbuilt in python)
 pywhatkit
-webbrowser
+webbrowser (This is inbuilt in python)
 pyjokes
 datetime
 wikipedia
 #os (This is inbuilt in python)
-#time(This is inbuilt in python)
+#time (This is inbuilt in python)
